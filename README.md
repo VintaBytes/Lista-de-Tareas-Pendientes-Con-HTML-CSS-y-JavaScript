@@ -7,7 +7,7 @@
 
 En este proyecto creaamos una lista de tareas pendientes utilizando HTML, CSS y JavaScript. Se involucran conceptos como manipulación del DOM, eventos, el objeto localStorage, etcétera. 
 
-También he preparado un video, en el que te guiaré a través de los pasos necesarios para qué puedas crear tu porpia ToDo List:  <a href="https://www.youtube.com/watch?v=NJChTgtjyiU"> Implementación de una Lista de Tareas Pendientes con HTML, CSS y JavaScript</a>
+También he preparado un video, en el que te guiaré a través de los pasos necesarios para qué puedas crear tu propia ToDo List:  <a href="https://www.youtube.com/watch?v=NJChTgtjyiU"> Implementación de una Lista de Tareas Pendientes con HTML, CSS y JavaScript</a>
 
 ## Screenshot:
 <img src="https://github.com/VintaBytes/Lista-de-Tareas-Pendientes-Con-HTML-CSS-y-JavaScript/blob/main/screenshot.png?raw=true">
